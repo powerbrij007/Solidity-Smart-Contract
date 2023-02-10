@@ -12,7 +12,8 @@ Greater than or equal to solidity version 0.7.0 but less than 0.9.0 version of s
 
 
 The basic information about solidity code:
-
 License identifier
 Compiler version and expression
 Opcode meaning by Ethereum-evm  (https://github.com/crytic/evm-opcodes)
+(ABI : Abstract Binary Interface (In JSON format )
+Bytecode : code deployed on Ethereum blockchain (In JSON format )
