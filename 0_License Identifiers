@@ -1,0 +1,4 @@
+Any one of the below license identifier can be used for writing solidity smart contract:
+// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: None
