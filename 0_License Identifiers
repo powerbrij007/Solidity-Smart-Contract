@@ -2,3 +2,10 @@ Any one of the below license identifier can be used for writing solidity smart c
 // SPDX-License-Identifier: MIT
 // SPDX-License-Identifier: GPL-3.0
 // SPDX-License-Identifier: None
+
+
+pragma solidity >=0.7.0 <0.9.0;
+
+Means the solidity version used to compile the below smart contract must be between 0.7.0 to 0.9.0
+
+Greater than or equal to solidity version 0.7.0 but less than 0.9.0 version of solidity.
