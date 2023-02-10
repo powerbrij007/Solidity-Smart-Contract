@@ -9,3 +9,10 @@ pragma solidity >=0.7.0 <0.9.0;
 Means the solidity version used to compile the below smart contract must be between 0.7.0 to 0.9.0
 
 Greater than or equal to solidity version 0.7.0 but less than 0.9.0 version of solidity.
+
+
+The basic information about solidity code:
+
+License identifier
+Compiler version and expression
+Opcode meaning by Ethereum-evm  (https://github.com/crytic/evm-opcodes)
